@@ -16,6 +16,7 @@ async function init(){
 
         const subjects = await loadSubjects();
 
+        console.log(subjects);
         renderSubjects(subjects);
 
         showMessage("Choose Subject");
