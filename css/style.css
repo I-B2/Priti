@@ -1,0 +1,200 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    overflow:hidden;
+    background:#07111f;
+    color:white;
+}
+
+#bg{
+    position:fixed;
+    inset:0;
+    width:100%;
+    height:100%;
+    z-index:-1;
+}
+
+.glass-card{
+
+    position:absolute;
+
+    top:50%;
+    left:50%;
+
+    transform:translate(-50%,-50%);
+
+    width:90%;
+    max-width:520px;
+
+    padding:30px;
+
+    border-radius:25px;
+
+    background:rgba(255,255,255,.08);
+
+    backdrop-filter:blur(18px);
+
+    border:1px solid rgba(255,255,255,.15);
+
+    box-shadow:
+    0 10px 40px rgba(0,0,0,.45);
+
+}
+
+h1{
+
+    text-align:center;
+
+    margin-bottom:25px;
+
+    font-size:32px;
+
+    letter-spacing:1px;
+
+}
+
+.input-group{
+
+    margin-bottom:20px;
+
+}
+
+label{
+
+    display:block;
+
+    margin-bottom:8px;
+
+    font-size:15px;
+
+}
+
+select{
+
+    width:100%;
+
+    padding:14px;
+
+    border:none;
+
+    border-radius:12px;
+
+    background:rgba(255,255,255,.15);
+
+    color:white;
+
+    font-size:16px;
+
+    outline:none;
+
+    cursor:pointer;
+
+}
+
+select option{
+
+    color:black;
+
+}
+
+select:hover{
+
+    background:rgba(255,255,255,.22);
+
+}
+
+#lectureContainer{
+
+    margin-top:25px;
+
+}
+
+.empty{
+
+    text-align:center;
+
+    padding:30px;
+
+    border-radius:15px;
+
+    background:rgba(255,255,255,.05);
+
+    color:#ddd;
+
+}
+
+.lecture-card{
+
+    background:rgba(255,255,255,.08);
+
+    padding:15px;
+
+    border-radius:15px;
+
+    margin-bottom:12px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+.lecture-card:hover{
+
+    transform:translateY(-4px);
+
+    background:rgba(255,255,255,.15);
+
+}
+
+@media(max-width:600px){
+
+.glass-card{
+
+width:95%;
+
+padding:20px;
+
+}
+
+h1{
+
+font-size:26px;
+
+}
+
+}
+.lecture-item{
+
+display:flex;
+
+justify-content:space-between;
+
+align-items:center;
+
+padding:15px 10px;
+
+border-bottom:1px solid rgba(255,255,255,.12);
+
+font-size:17px;
+
+}
+
+.lecture-name{
+
+font-weight:500;
+
+}
+
+.lecture-date{
+
+opacity:.7;
+
+font-size:14px;
+
+}
