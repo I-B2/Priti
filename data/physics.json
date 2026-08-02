@@ -1,30 +1,9 @@
 {
   "chapters": [
     {
-      "name": "Electromagnetism",
-      "lectures": [
-        {
-          "title": "Lecture 1",
-          "date": "3 August"
-        },
-        {
-          "title": "Lecture 2",
-          "date": "3 August"
-        }
-      ]
-    },
-    {
-      "name": "Current Electricity",
-      "lectures": [
-        {
-          "title": "Lecture 1",
-          "date": "4 August"
-        },
-        {
-          "title": "Lecture 2",
-          "date": "5 August"
-        }
-      ]
-    }
-  ]
-}
+      "name": "धारा विद्युत",
+      "lectures": [ {"title": "Lecture 1","date":"3 August"},
+                    {"title": "Lecture 2","date": "4 August"},
+                    {"title":" Lecture 3","date":"5 August"},
+                    {"title":"Lecture 4","date":"6 August"} ]}
+  ]}
