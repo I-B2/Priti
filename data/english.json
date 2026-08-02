@@ -1,4 +1,4 @@
 {
-  "chapters":["name":"Now The Leaves Are Falling Fast","lectures":{title":"Complete","date":"3 August"},
-  {"name":"Ode to Autumn","lectures":{"title:"Complete","date":"4 August"}}
+  "chapters":["name":"Now The Leaves Are Falling Fast","lectures":[{title":"Complete","date":"3 August"}],
+  {"name":"Ode to Autumn","lectures":[{"title:"Complete","date":"4 August"}]}
   ]}
