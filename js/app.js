@@ -19,7 +19,7 @@ async function init(){
         console.log(subjects);
         renderSubjects(subjects);
 
-        showMessage("Choose Subject");
+        showMessage("Choose Heading");
 
     }
 
@@ -27,7 +27,7 @@ async function init(){
 
         console.error(error);
 
-        showMessage("Unable to load subjects.");
+        showMessage("Pahle Heading Choose kariye💚.");
 
     }
 
@@ -48,7 +48,7 @@ subjectSelect.addEventListener("change", async ()=>{
 
     if(subjectSelect.value===""){
 
-        showMessage("Choose Subject");
+        showMessage("Choose Heading");
 
         return;
 
@@ -61,7 +61,7 @@ subjectSelect.addEventListener("change", async ()=>{
 
         renderChapters(currentSubject.chapters);
 
-        showMessage("Choose Chapter");
+        showMessage("Choose Topic");
 
     }
 
@@ -83,7 +83,7 @@ chapterSelect.addEventListener("change",()=>{
 
     if(chapterSelect.value===""){
 
-        showMessage("Choose Chapter");
+        showMessage("Choose Topic");
 
         return;
 
