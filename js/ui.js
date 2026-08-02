@@ -14,7 +14,7 @@ const lectureContainer = document.getElementById("lectureContainer");
 function renderSubjects(subjects){
 
     subjectSelect.innerHTML =
-    `<option value="">Choose Subject</option>`;
+    `<option value="">Choose Heading</option>`;
 
     subjects.forEach(subject=>{
 
@@ -38,7 +38,7 @@ function renderChapters(chapters){
     chapterSelect.disabled = false;
 
     chapterSelect.innerHTML =
-    `<option value="">Choose Chapter</option>`;
+    `<option value="">Choose Topic</option>`;
 
     chapters.forEach((chapter,index)=>{
 
