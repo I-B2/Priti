@@ -1,30 +1,4 @@
 {
-  "chapters": [
-    {
-      "name": "Electromagnetism",
-      "lectures": [
-        {
-          "title": "Lecture 1",
-          "date": "3 August"
-        },
-        {
-          "title": "Lecture 2",
-          "date": "3 August"
-        }
-      ]
-    },
-    {
-      "name": "Current Electricity",
-      "lectures": [
-        {
-          "title": "Lecture 1",
-          "date": "4 August"
-        },
-        {
-          "title": "Lecture 2",
-          "date": "5 August"
-        }
-      ]
-    }
-  ]
-}
+  "chapters":["Now The Leaves Are Falling Fast","lectures":{:title":"Complete","date":"3 August"},
+  "Ode to Autumn","lectures":{"title:"Complete","date":"4 August"}
+  ]}
