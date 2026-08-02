@@ -1,1 +1,17 @@
-d
+{
+  "chapters": [
+    {
+      "name": "Electromagnetism",
+      "lectures": [
+        {
+          "title": "Lecture 1",
+          "date": "3 August"
+        },
+        {
+          "title": "Lecture 2",
+          "date": "3 August"
+        }
+      ]
+    }
+  ]
+}
