@@ -1,6 +1,7 @@
 
 [
-{"name":"Physics", "file":"physics.json"},
+{ "name":"Date","file":"date.json" },
+  {"name":"Physics", "file":"physics.json"},
   {"name":"Chemistry", "file":"chemistry.json"},
   {"name":"Biology", "file":"biology.json"},
   {"name":"Hindi","file":"hindi.json"},
