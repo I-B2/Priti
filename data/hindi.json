@@ -1,4 +1,4 @@
 {
-  "chapters":["name":"बातचीत","lectures":{"title":"बातचीत Complete","date":"3 August"},
-   "name": "उसने कहा था","lectures":{"title":"उसने कहा था Complete","date":"4 August"}
+  "chapters":[{"name":"बातचीत","lectures":{"title":"बातचीत Complete","date":"3 August"}},
+ { "name": "उसने कहा था","lectures":{"title":"उसने कहा था Complete","date":"4 August"}}
   ]}
