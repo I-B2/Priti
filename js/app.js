@@ -51,9 +51,19 @@ subjectSelect.addEventListener("change", async ()=>{
         showMessage("Choose Heading");
 
         return;
-
     }
 
+    if (subjectSelect.value === " ") {
+
+    const pass = prompt("🔒 Date Password Enter Kare");
+
+    if (pass !== "1234") {
+        alert("Wrong Password!");
+        subjectSelect.selectedIndex = 0;
+        showMessage("Choose Heading");
+        return;
+    }
+}
     try{
 
         currentSubject=
