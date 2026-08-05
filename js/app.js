@@ -53,7 +53,7 @@ subjectSelect.addEventListener("change", async ()=>{
         return;
     }
 
-    if (subjectSelect.value === " ") {
+    if (subjectSelect.value === "  ") {
 
     const pass = prompt("🔒 Date Password Enter Kare");
 
