@@ -18,7 +18,7 @@
                   {"title":"Hindi","date":"उसने कहा था - All Remember"},
                   {"title":"English","date":"Ode to Autumn -All Remember"}]},
       {"name":"6 August" ,"lectures":[{"title":"Physics","date":"Ch-4 L-4"},{"title":"Physics","date":"Ch-5 L-1,2"},{"title":"Chemistry","date":"Ch-5 L-1"},{"title":"Biology Remember","date":"Ch-1,2"},{"title":"Hindi (संपूर्ण क्रांति)","date":"L-1"},{"title":"English (John Donne)","date":"L-1"}]},
-      {"name":"7 August" },
+      {"name":"7 August","lectures":[{"title":"Physics","date":"Holiday" },{"title":"Chemistry","date":"Holiday"},{"title":"Biology","date":"Holiday"},{"title":"Hindi","date":"Holiday"},{"title":"English","date":"Holiday"}]},
       {"name":"8 August"},
       {"name":"9 AUgust"},
       {"name":"10 August"}
