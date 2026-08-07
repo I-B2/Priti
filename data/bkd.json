@@ -2,7 +2,7 @@
   "chapters":[
     {"name":" 5 August","lectures":[{"title":"Lucent Physics Theory ch-1(Matrk) to 5(Daab)","date":"21:00 to 23:59"}]},
     {"name":"6 August","lectures":[{"title":"Nityanium","date":"05:00-06:00"},{"title":"Unit 5","date":"06:00-07:00"},{"title":"Unit 6","date":"07:00-08:00"},{"title":"Unit 7","date":"08:00-09:00"},{"title":"Quiz","date":"12:00-14:00"},{"title":"Unit 5 Complete In Ultra Deep","date":"14:00-18:00"},{"title":"Lucent Biology Theory Ch-1 to 4","date":"21:00-23:50"}]},
-    {"name":"7 August"},
+    {"name":"7 August","lectures":[{"title":"Unit 6","date":"12:00-15:00"},{"title":"Unit 7":"date":"15:00-18:00"},{"title":"Lucent Chemistry Theory Ch- 1 to 5","date":"21:00-23:59"} ]},
     {"name":"8 August"},
     {"name":"9 August"},
     {"name":"10 August"}
