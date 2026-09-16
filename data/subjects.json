@@ -1,10 +1,8 @@
 
 [
-{ "name":"Date","file":"date.json" },
-  {"name":"Physics","file":"physics.json"},
-  {"name":"Chemistry","file":"chemistry.json"},
-  {"name":"Biology","file":"biology.json"},
-  {"name":"Hindi","file":"hindi.json"},
-  {"name":"English","file":"english.json"},
-  {"name":"  ","file":"bkd.json"}
+  {"name":"Brajesh","file":"brajesh.json"},
+  {"name":"Ribha","file":"ribha.json"},
+  {"name":"Anshu","file":"anshu.json"},
+  {"name":"Priti","file":"priti.json"},
+  {"name":"Bittu","file":"bittu.json"}
   ]
