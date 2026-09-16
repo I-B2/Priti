@@ -19,7 +19,8 @@ async function init(){
         console.log(subjects);
         renderSubjects(subjects);
 
-        showMessage("Touch Me😋");
+        showMessage("युद्ध नहीं जिनके जीवन में, वो भी बड़े अभागे होंगे |
+या तो प्रण को तोड़ा होगा, या रण छोड़ के भागे होंगे ||");
 
     }
 
@@ -48,7 +49,8 @@ subjectSelect.addEventListener("change", async ()=>{
 
     if(subjectSelect.value===""){
 
-        showMessage("Touch Me💛");
+        showMessage("युद्ध नहीं जिनके जीवन में, वो भी बड़े अभागे होंगे |
+या तो प्रण को तोड़ा होगा, या रण छोड़ के भागे होंगे ||");
 
         return;
     }
