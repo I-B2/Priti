@@ -19,7 +19,7 @@ async function init(){
         console.log(subjects);
         renderSubjects(subjects);
 
-        showMessage("Choose Heading");
+        showMessage("Touch Me😋");
 
     }
 
@@ -48,7 +48,7 @@ subjectSelect.addEventListener("change", async ()=>{
 
     if(subjectSelect.value===""){
 
-        showMessage("Choose Heading");
+        showMessage("Touch Me💛");
 
         return;
     }
