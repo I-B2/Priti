@@ -47,7 +47,7 @@ subjectSelect.addEventListener("change", async ()=>{
 
     chapterSelect.disabled=true;
 
-    if(subjectSelect.value==="Subject"){
+    if(subjectSelect.value===""){
 
         showMessage(`युद्ध नहीं जिनके जीवन में, वो भी बड़े अभागे होंगे |
 या तो प्रण को तोड़ा होगा, या रण छोड़ के भागे होंगे ||`);
